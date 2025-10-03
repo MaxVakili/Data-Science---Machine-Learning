@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Masoud (Max) Vakili
+- 👋 Hi, I’m Masoud Vakili
 - 👀 I’m interested in Data Science, Deep Learning, Neural Networks, Quantum Computing
 - 🌱 I’m currently learning Graph Neural Networks
 - 💞️ I’m looking to collaborate on Data Science, Machine Learning
